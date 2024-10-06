@@ -1,0 +1,3 @@
+blobfile>=3.0.0
+huggingface_hub>=0.24.7
+sentencepiece>=0.1.99
